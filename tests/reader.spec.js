@@ -1,6 +1,6 @@
 const chai = require('chai');
 const assert = chai.assert;
-const index = require('../index');
+const index = require('../reader');
 
 describe('getHashOfFile', ()=> {
     it('log out the correct sha1', (done) => {
