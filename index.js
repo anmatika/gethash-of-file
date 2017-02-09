@@ -44,3 +44,5 @@ function getHashOfFile(algo, file){
 
     return promise;
 }
+
+module.exports.getHashOfFile = getHashOfFile;
