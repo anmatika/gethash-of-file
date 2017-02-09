@@ -1,4 +1,10 @@
-# USAGE
+# USAGE & INFO
+Outputs hash of the given file by given algorithm
+Possible algorithms supported:
+
+* sha1
+* sha256
+* md5
 
 ## Prequisites
 `npm i`
