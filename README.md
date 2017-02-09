@@ -1,5 +1,6 @@
 # USAGE & INFO
-Outputs hash of the given file by given algorithm
+Outputs the hash of the given file by the given algorithm.
+
 Possible algorithms supported:
 
 * sha1
