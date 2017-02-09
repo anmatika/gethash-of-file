@@ -1,5 +1,5 @@
 {
-  "name": "sha1test",
+  "name": "gethash-of-file",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
