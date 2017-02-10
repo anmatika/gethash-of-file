@@ -34,4 +34,4 @@ Get md5 and sha1:
 `node index.js path/to/file --md5 --sha1`
 
 ## Run tests
-`npm test tests/*.js`
+`npm test`
