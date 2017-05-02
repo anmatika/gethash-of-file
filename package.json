@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha.cmd tests/**/*.js"
+    "test": "./node_modules/.bin/mocha tests/**/*.js"
   },
   "author": "Antti Matikainen <4ntti.matikainen@gmail.com> (http://yourblog.com)",
   "license": "ISC",
